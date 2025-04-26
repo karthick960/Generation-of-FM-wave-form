@@ -52,7 +52,8 @@ plt.tight_layout()
 plt.show()
 
 # Waveform
-![image](https://github.com/user-attachments/assets/c2cbdc9b-a392-44c2-a137-efc498d0017c)
+![image](https://github.com/user-attachments/assets/51d08995-22a0-4c22-adc5-c849ffdb6d86)
+
 
 # Result
 Thus the program runned successfully.
